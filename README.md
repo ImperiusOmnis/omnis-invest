@@ -60,3 +60,19 @@ Entre os principais aprendizados estão:
 - Aplicação de formatação condicional para fornecer feedback visual ao usuário
 - Construção de visualizações a partir dos resultados calculados
 - Importância da organização visual e da experiência de uso em uma ferramenta desenvolvida no Excel
+
+## Aprimoramentos realizados
+
+Após a construção da versão inicial do simulador, o projeto foi revisado e aprimorado para a publicação no portfólio.
+
+Entre os aprimoramentos realizados estão:
+
+- Criação da identidade visual **OMNIS INVEST**
+- Reorganização visual da interface para facilitar a leitura das informações
+- Inclusão dos indicadores de **Total Aportado** e **Ganho Acumulado**
+- Melhoria da apresentação dos cenários de patrimônio e dividendos
+- Inclusão de validação de dados para seleção do percentual destinado aos investimentos
+- Melhoria da seleção do perfil de investidor com instruções e feedback visual por formatação condicional
+- Criação do gráfico **Distribuição Sugerida do Aporte Mensal**
+- Refinamento da apresentação das categorias e valores da distribuição sugerida
+- Inclusão de aviso informando que os resultados são simulações baseadas em taxas constantes e não representam garantia de retorno
