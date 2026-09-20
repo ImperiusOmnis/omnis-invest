@@ -31,7 +31,7 @@ O projeto foi desenvolvido no **Microsoft Excel**, utilizando recursos como:
 
 - Fórmulas e cálculos automatizados
 - Função financeira `FV` para projeção do patrimônio
-- `VLOOKUP (PROCV)` para busca de dados na tabela auxiliar
+- Função `PROCV (VLOOKUP)` para busca de dados na tabela auxiliar
 - Intervalos nomeados para organização e leitura das fórmulas
 - Referências absolutas para construção dos cenários de investimento
 - Validação de dados para seleção de parâmetros e perfil de investidor
