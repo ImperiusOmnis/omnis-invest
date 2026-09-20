@@ -2,6 +2,8 @@
 
 Simulador de investimentos em Fundos Imobiliários desenvolvido em Microsoft Excel.
 
+📥 [Baixar a planilha OMNIS INVEST](./omnis-invest.xlsx)
+
 ![Preview do OMNIS INVEST](images/omnis-invest-preview.png)
 
 ## Sobre o projeto
