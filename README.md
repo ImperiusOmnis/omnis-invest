@@ -76,3 +76,11 @@ Entre os aprimoramentos realizados estão:
 - Criação do gráfico **Distribuição Sugerida do Aporte Mensal**
 - Refinamento da apresentação das categorias e valores da distribuição sugerida
 - Inclusão de aviso informando que os resultados são simulações baseadas em taxas constantes e não representam garantia de retorno
+
+## Origem do projeto
+
+Este projeto foi iniciado a partir de um desafio da formação **Análise de Dados com Excel e IA**, da **DIO**, cujo objetivo era desenvolver um simulador de investimentos em Fundos Imobiliários utilizando o Microsoft Excel.
+
+A partir da proposta apresentada durante a formação, o projeto foi desenvolvido, personalizado e posteriormente aprimorado para compor meu portfólio de projetos em análise de dados.
+
+A versão apresentada neste repositório incorpora identidade visual própria, novos indicadores, validações, melhorias na experiência de uso e visualização gráfica dos resultados.
