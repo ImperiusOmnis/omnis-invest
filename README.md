@@ -84,3 +84,7 @@ Este projeto foi iniciado a partir de um desafio da formação **Análise de Dad
 A partir da proposta apresentada durante a formação, o projeto foi desenvolvido, personalizado e posteriormente aprimorado para compor meu portfólio de projetos em análise de dados.
 
 A versão apresentada neste repositório incorpora identidade visual própria, novos indicadores, validações, melhorias na experiência de uso e visualização gráfica dos resultados.
+
+## Aviso
+
+> **Este projeto possui finalidade exclusivamente educacional.** Os cálculos e projeções apresentados utilizam parâmetros e taxas informados pelo usuário e não representam recomendação de investimento ou garantia de rentabilidade.
