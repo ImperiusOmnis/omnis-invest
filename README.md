@@ -22,3 +22,16 @@ O projeto também permite selecionar um perfil de investidor e apresenta uma sug
 - Seleção do perfil de investidor: Conservador, Moderado ou Agressivo
 - Sugestão automática de distribuição do aporte entre diferentes tipos de FIIs
 - Visualização gráfica da distribuição sugerida do investimento
+
+## Tecnologias e recursos utilizados
+
+O projeto foi desenvolvido no **Microsoft Excel**, utilizando recursos como:
+
+- Fórmulas e cálculos automatizados
+- Função financeira `FV` para projeção do patrimônio
+- `VLOOKUP (PROCV)` para busca de dados na tabela auxiliar
+- Intervalos nomeados para organização e leitura das fórmulas
+- Referências absolutas para construção dos cenários de investimento
+- Validação de dados para seleção de parâmetros e perfil de investidor
+- Formatação condicional para feedback visual do perfil selecionado
+- Gráfico de rosca para visualização da distribuição sugerida do aporte
