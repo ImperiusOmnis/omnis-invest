@@ -35,3 +35,13 @@ O projeto foi desenvolvido no **Microsoft Excel**, utilizando recursos como:
 - Validação de dados para seleção de parâmetros e perfil de investidor
 - Formatação condicional para feedback visual do perfil selecionado
 - Gráfico de rosca para visualização da distribuição sugerida do aporte
+
+## Como utilizar
+
+1. Baixe o arquivo `omnis-invest.xlsx` disponível neste repositório.
+2. Abra o arquivo no Microsoft Excel.
+3. Na seção **Configurações**, informe o salário e escolha o percentual que deseja destinar aos investimentos.
+4. Na seção **Investimento Mensal**, defina o aporte, o período de investimento e a taxa de rendimento mensal.
+5. Consulte os resultados calculados automaticamente, como patrimônio acumulado, total aportado, ganho acumulado e dividendos mensais.
+6. Selecione seu perfil de investidor para visualizar a sugestão de distribuição do aporte entre os diferentes tipos de FIIs.
+7. Consulte o gráfico para visualizar a composição sugerida do aporte mensal.
