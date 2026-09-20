@@ -45,3 +45,18 @@ O projeto foi desenvolvido no **Microsoft Excel**, utilizando recursos como:
 5. Consulte os resultados calculados automaticamente, como patrimônio acumulado, total aportado, ganho acumulado e dividendos mensais.
 6. Selecione seu perfil de investidor para visualizar a sugestão de distribuição do aporte entre os diferentes tipos de FIIs.
 7. Consulte o gráfico para visualizar a composição sugerida do aporte mensal.
+
+## Principais aprendizados
+
+Durante o desenvolvimento do OMNIS INVEST, pude aplicar conceitos de Excel em um projeto prático e compreender melhor como diferentes recursos podem trabalhar em conjunto dentro de uma mesma solução.
+
+Entre os principais aprendizados estão:
+
+- Estruturação de uma planilha separando dados de entrada, cálculos e resultados
+- Uso de fórmulas financeiras para criação de projeções
+- Aplicação de funções de busca para relacionar informações de uma tabela auxiliar
+- Uso de intervalos nomeados para tornar fórmulas mais organizadas e compreensíveis
+- Criação de campos controlados por validação de dados
+- Aplicação de formatação condicional para fornecer feedback visual ao usuário
+- Construção de visualizações a partir dos resultados calculados
+- Importância da organização visual e da experiência de uso em uma ferramenta desenvolvida no Excel
